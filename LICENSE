@@ -1,21 +1,47 @@
-MIT License
+# AI Endless Bootcamp - Catalogue Officiel
 
-Copyright (c) 2026 AI ENDLESS BOOTCAMP
+Ce dépôt centralise l'ensemble des fiches descriptives des modules de formation, des ateliers pratiques BookCamps, des services aux entreprises et des grilles tarifaires d'AI Endless Bootcamp. Il constitue la source de vérité officielle et partagée pour notre communauté, nos partenaires et nos systèmes automatisés.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Structure Générale du Catalogue
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### 1. Grilles Tarifaires (pricing/)
+Nos documents tarifaires officiels mis à disposition en formats Markdown et PDF :
+- Tarification des modules d'ingénierie et de technique
+- Tarification des offres destinées aux entreprises
+- Tarification des programmes dédiés à l'éducation et aux institutions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### 2. Modules de Formation (modules/)
+Nos parcours d'apprentissage sont structurés en trois piliers fondamentaux :
+
+#### Piliers Techniques (ai-technical)
+- t001-ai-basics : Fondamentaux de l'intelligence artificielle
+- t002-advanced-ai : Intelligence artificielle avancée
+- t003-data-science : Science des données et méthodes analytiques
+- t004-ai-with-tensorflow : Apprentissage automatique avec TensorFlow
+- t005-ai-with-pytorch : Apprentissage profond avec PyTorch
+
+#### Piliers Entreprises (ai-for-enterprises)
+- b001-ai-adoption-for-enterprises : Stratégie d'adoption de l'intelligence artificielle en milieu professionnel
+- b003-ai-for-human-ressources : Optimisation des processus RH par l'intelligence artificielle
+- b004-ai-for-finances : Intelligence artificielle appliquée à la gestion financière et comptable
+- b007-agentic-software-engineering : Transformation de l'ingénierie logicielle par les agents intelligents
+
+#### Piliers Éducation (ai-for-education)
+- e001-ai-for-educators : Intégration de l'intelligence artificielle pour les enseignants et formateurs
+- e002-ai-for-learners : Maîtrise des outils d'intelligence artificielle pour les apprenants
+
+### 3. BookCamps et Ateliers Pratiques (workshops/)
+- ws001-everyone-can-cook-ai : Expérience pratique intensive basée sur l'étude de livres techniques et de papiers de recherche de référence
+
+### 4. Services aux Entreprises (enterprise-services)
+- es001-integration-audit : Audit complet des capacités d'intégration technologique
+- es002-software-development : Prestations de développement logiciel sur mesure
+- es003-custom-ai-systems : Conception et déploiement de systèmes d'intelligence artificielle personnalisés
+- es004-custom-ai-module : Création de modules de formation spécifiques pour les organisations partenaires
+- es005-educational-material-preparation : Préparation et design de matériel pédagogique de niveau supérieur
+
+### 5. Produits et Merchandising (products)
+- Éléments de visibilité, stickers et goodies officiels de la marque
+
+## Propriété Intellectuelle et Licence
+L'ensemble des contenus, fiches et documents téléchargeables de ce catalogue sont protégés par la licence propriétaire d'AI Endless Bootcamp interdisant toute reproduction commerciale non autorisée.
